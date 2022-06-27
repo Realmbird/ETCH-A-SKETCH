@@ -25,3 +25,6 @@ padding: 15px;
 gap: 15px;
 justify-content: space-around;
 }
+body{
+    background-color: goldenrod;
+}
