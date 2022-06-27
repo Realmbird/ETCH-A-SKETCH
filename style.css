@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.grid{
+    background-color: aliceblue;
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+    transition-duration: 0.7s;
+}
+.colored{
+    background-color: blue;
+}
+.menu{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 15px;
+gap: 15px;
+justify-content: space-around;
+}
